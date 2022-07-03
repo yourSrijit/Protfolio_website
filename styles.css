@@ -137,6 +137,9 @@ span{
 }
 @media screen and (max-width:526px) {
     .images{
-        height: 39%;
+        height: 30%;
+    }
+    .social{
+        display:none;
     }
 }
