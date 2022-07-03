@@ -129,3 +129,14 @@ span{
 .social a:hover{
     color: rgb(255, 13, 0);
 }
+
+@media screen and (max-width:1490px) {
+    .images{
+        height: 55%;
+    }
+}
+@media screen and (max-width:526px) {
+    .images{
+        height: 39%;
+    }
+}
